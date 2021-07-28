@@ -8,9 +8,13 @@ permalink: /leaderboard/
 | Score | ASR-hybrid ETAPE | ASR-e2e ETAPE | ASR-e2e CommonVoice | SLU MEDIA | AST mTEDx | AST CV2   | AER RECOLA   || AER AlloSat   |
 
 | ----- | ----- | ----- | ------ | ---- | ----- | ----- | ----- | ----- || ----- |
-| W2V-Fr-Sbase <a href="https://github.com/google-research/bert"><span class="iconify" data-icon="ion-md-link" data-inline="false"></span></a>                               |  |  |  |   |  |  | |  ||  |  
-| W2V-Fr-Slarge <a href="https://github.com/pytorch/fairseq/blob/master/examples/camembert"><span class="iconify" data-icon="ion-md-link" data-inline="false"></span></a> |  |  |  |   |  |  | |  ||  |  
+
+| W2V-Fr-Sbase <a href="https://github.com/google-research/bert"><span class="iconify" data-icon="ion-md-link" data-inline="false"></span></a>  |  |  |  |   |  |  | |  ||  |
+
+| W2V-Fr-Slarge <a href="https://github.com/pytorch/fairseq/blob/master/examples/camembert"><span class="iconify" data-icon="ion-md-link" data-inline="false"></span></a> |  |  |  |   |  |  | |  ||  |
+
 | W2V-Fr-Mbase <a href="https://github.com/getalp/Flaubert"><span class="iconify" data-icon="ion-md-link" data-inline="false"></span></a>                            |  |  |  |   |  |  | |  || |  
+
 | W2V-Fr-Mlarge <a href="https://github.com/getalp/Flaubert"><span class="iconify" data-icon="ion-md-link" data-inline="false"></span></a>                           |  |  |  |   |  |  | |  ||  |  
 
 ><sub> **Score** : Average score of all the tasks 
