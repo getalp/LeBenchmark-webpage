@@ -4,7 +4,7 @@
 
 layout: page
 ---
-# LeBenchmark: A Reproducible Framework for Assessing Self-Supervised Representation Learning from Speech
+<span style="font-size:25px">LeBenchmark: A Reproducible Framework for Assessing Self-Supervised Representation Learning from Speech</span>
 
 **LeBenchmark** is a speech evaluation framework for French:  It includes ASR (high and low resource) tasks but also spoken language understanding, speech translation and emotion recognition.
 
