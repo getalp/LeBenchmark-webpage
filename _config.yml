@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: FLUE
-name: FLUE
-email: your-email@example.com
+title: LeBenchmark
+name: LeBenchmark
+email: didier.schwab@univ-grenoble-alpes.fr
 description: >- # this means to ignore newlines until "ba seurl:"
   French Language Understanding Evaluation
-baseurl: /flue_page
+baseurl: /LeBenchmark-webpage
 url: https://github.com/getalp
 twitter_username: jekyll
 github_username:  jekyll
