@@ -8,27 +8,23 @@ permalink: /leaderboard/
 
 | Score | ASR-hybrid ETAPE | ASR-e2e ETAPE | ASR-e2e CommonVoice | SLU MEDIA | AST mTEDx | AST CV2   | AER RECOLA   | AER AlloSat   |
 | ----- | ----- | ----- | ------ | ---- | ----- | ----- | ----- | ----- | 
-| W2V-Fr-Sbase <a href="https://github.com/google-research/bert"><span class="iconify" data-icon="ion-md-link" data-inline="false"></span></a>  |  |  |  |   |  |  | |  |  |
-| W2V-Fr-Slarge <a href="https://github.com/pytorch/fairseq/blob/master/examples/camembert"><span class="iconify" data-icon="ion-md-link" data-inline="false"></span></a> |  |  |  |   |  |  | |  |  |
-| W2V-Fr-Mbase <a href="https://github.com/getalp/Flaubert"><span class="iconify" data-icon="ion-md-link" data-inline="false"></span></a>                            |  |  |  |   |  |  | |  | |  
-| W2V-Fr-Mlarge <a href="https://github.com/getalp/Flaubert"><span class="iconify" data-icon="ion-md-link" data-inline="false"></span></a>                           |  |  |  |   |  |  | |  |  |  
+| W2V-Fr-S-base <a href="https://huggingface.co/LeBenchmark/wav2vec2-FR-S-base"><span class="iconify" data-icon="ion-md-link" data-inline="false"></span></a>  |  |  |  |   |  |  | |  |  |
+| W2V-Fr-S-large <a href="https://huggingface.co/LeBenchmark/wav2vec2-FR-S-large"><span class="iconify" data-icon="ion-md-link" data-inline="false"></span></a> |  |  |  |   |  |  | |  |  |
+| W2V-Fr-M-base <a href="https://huggingface.co/LeBenchmark/wav2vec2-FR-M-base"><span class="iconify" data-icon="ion-md-link" data-inline="false"></span></a>                            |  |  |  |   |  |  | |  | |  
+| W2V-Fr-M-large <a href="https://huggingface.co/LeBenchmark/wav2vec2-FR-M-large"><span class="iconify" data-icon="ion-md-link" data-inline="false"></span></a>                           |  |  |  |   |  |  | |  |  |  
 
 ><sub> **Score** : Average score of all the tasks 
 >
-><sub> **ETAPE-ASR** : Automatic Speech Recognition - WER (%)
+><sub> **ASR ETAPE** : Automatic Speech Recognition - WER (%)
 >
-><sub> **ESTER-1.2 + EPAC-ASR** : Automatic Speech Recognition - WER (%)
+><sub> **ASR CommonVoice** : Automatic Speech Recognition - WER (%)
 >
-><sub> **CommonVoice-E2E** : Automatic Speech Recognition - WER (%)
+><sub> **SLU MEDIA** : Spoken Langue Understanding - Accuracy (%)
 >
-><sub> **ETAPE-E2E** : Automatic Speech Recognition - WER (%)
+><sub> **AST CV2** : Speech to Text Translation - BLEU 
 >
-><sub> **MEDIA** : Natural language inference task with XNLI dataset - Accuracy 
+><sub> **AST mTEDx** : Speech to Text Translation - BLEU 
 >
-><sub> **CV2** : Pos tagging task with French Treebank dataset - Accuracy 
+><sub> **AER RECOLA** : Automatic Emotion Recognition - F1 
 >
-><sub> **mTEDx** : Dependency parsing task with French Treebank dataset - UAS 
->
-><sub> **RECOLA** : Verb sense disambiguation task with French SemEval dataset - F1 
->
-><sub> **AlloSat** : Noun sense disambiguation task with French SemEval dataset - F1
+><sub> **AER AlloSat** : Automatic Emotion Recognition - F1
