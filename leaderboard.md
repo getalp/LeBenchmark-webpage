@@ -6,7 +6,7 @@ permalink: /leaderboard/
 <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
 
 
-| Score | ASR-hybrid ETAPE | ASR-e2e ETAPE | ASR-e2e CommonVoice | SLU MEDIA | AST mTEDx | AST CV2   | AER RECOLA   | AER AlloSat   |
+| Model | ASR-hybrid ETAPE | ASR-e2e ETAPE | ASR-e2e CommonVoice | SLU MEDIA | AST mTEDx | AST CV2   | AER RECOLA   | AER AlloSat   | Score
 | ----- | ----- | ----- | ------ | ---- | ----- | ----- | ----- | ----- | 
 | W2V-Fr-S-base <a href="https://huggingface.co/LeBenchmark/wav2vec2-FR-S-base"><span class="iconify" data-icon="ion-md-link" data-inline="false"></span></a>  |  |  |  |   |  |  | |  |  |
 | W2V-Fr-S-large <a href="https://huggingface.co/LeBenchmark/wav2vec2-FR-S-large"><span class="iconify" data-icon="ion-md-link" data-inline="false"></span></a> |  |  |  |   |  |  | |  |  |
