@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Papers
-permalink: /Papers/
+title: Paper
+permalink: /Paper/
 ---
 
 Our preliminary work on LeBenchmark was accepted at [Interspeech 2021](https://arxiv.org/pdf/2104.11462.pdf)
