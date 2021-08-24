@@ -5,7 +5,7 @@ permalink: /tasks/
 ---
   
 We benchmark our SSL models on 4 different tasks (ASR, SLU, AST and AER) that were chosen with the following criteria:
-    (a) diversity of problems: classification (AER), sequence labelling (SLU) and conditional natural language generation (ASR, AST),
+    (a) diversity of problems: regression (AER), sequence labelling (SLU) and conditional natural language generation (ASR, AST),
     (b) diversity of information extracted: transcript (ASR), semantics (SLU), translation (AST) and paralinguistics (AER),
     (c) diversity of annotated resources available for downstream task: large (ASR), medium (SLU, AST) or small (AER).
   
