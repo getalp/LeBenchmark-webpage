@@ -6,7 +6,7 @@ permalink: /leaderboard/
 <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
 
 >Task-agnostic pre-training only (1 single SSL model for all tasks).
->AER results reported are obtained withthe GRU-32 architecture
+>AER results reported are obtained with the GRU-32 architecture
 
 | Model | ASR-hybrid ETAPE | ASR-e2e ETAPE | ASR-e2e CommonVoice | SLU MEDIA | AST mTEDx fr-en | AST mTEDx fr-es | AST mTEDx fr-pt | AER RECOLA Valence   | AER RECOLA Arousal   | AER AlloSat   
 | ----- | ----- | ----- | ------ | ---- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | 
