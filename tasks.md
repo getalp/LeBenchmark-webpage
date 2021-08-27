@@ -8,6 +8,8 @@ We benchmark our SSL models on 4 different tasks (ASR, SLU, AST and AER) that we
     (a) diversity of problems: regression (AER), sequence labelling (SLU) and conditional natural language generation (ASR, AST),
     (b) diversity of information extracted: transcript (ASR), semantics (SLU), translation (AST) and paralinguistics (AER),
     (c) diversity of annotated resources available for downstream task: large (ASR), medium (SLU, AST) or small (AER).
+    
+ Table 9 of our NeurIPS2021 submitted paper provides direct access to URL of the datasets mentioned below.
   
 ## 1. Automatic Speech Recognition
 
@@ -26,9 +28,7 @@ We benchmark our SSL models on 4 different tasks (ASR, SLU, AST and AER) that we
 
 ## 3. Speech-to-text Translation
    
-   **CV2** & **mTEDx** We selected subsets having French as the source language in two large multilingual speech corpora: CoVoST-2 and multilingual TEDx. Our benchmark covers translation directions from French to three target languages: English (en), Portugese (pt), and Spanish (es), with following training sizes: 50 h (TEDx/en), 38 h (TEDx/es), 25 h (TEDx/pt), and 180 h (CoVoST2/en).
-
-  Wang, C., Wu, A., and Pino, J. (2020b). Covost 2 and massively multilingual speech-to-text translation. arXiv e-prints
+   **mTEDx** We selected subsets having French as the source language in multilingual TEDx corpus. Our benchmark covers translation directions from French to three target languages: English (en), Portugese (pt), and Spanish (es), with following training sizes: 50 h (TEDx/en), 38 h (TEDx/es), 25 h (TEDx/pt).
   
   Salesky, E. et al. (2021). The multilingual TEDx corpus for speech recognition and translation.
 
