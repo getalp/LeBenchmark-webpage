@@ -5,9 +5,12 @@ permalink: /leaderboard/
 ---
 <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
 
+>Task-agnostic pre-training only (1 single SSL model for all tasks).
+>AER results reported are obtained withthe GRU-32 architecture
 
 | Model | ASR-hybrid ETAPE | ASR-e2e ETAPE | ASR-e2e CommonVoice | SLU MEDIA | AST mTEDx fr-en | AST mTEDx fr-es | AST mTEDx fr-pt | AER RECOLA Valence   | AER RECOLA Arousal   | AER AlloSat   
 | ----- | ----- | ----- | ------ | ---- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | 
+| MFB or Spectro  |  |  |  |   |  |  | | |  | | 
 | W2V-Fr-1K-base <a href="https://huggingface.co/LeBenchmark/wav2vec2-FR-1K-base"><span class="iconify" data-icon="ion-md-link" data-inline="false"></span></a>  |  |  |  |   |  |  | | |  | | 
 | W2V-Fr-1K-large <a href="https://huggingface.co/LeBenchmark/wav2vec2-FR-1K-large"><span class="iconify" data-icon="ion-md-link" data-inline="false"></span></a> |  |  |  |   |  |  | |  | | | 
 | W2V-Fr-3K-base <a href="https://huggingface.co/LeBenchmark/wav2vec2-FR-3K-base"><span class="iconify" data-icon="ion-md-link" data-inline="false"></span></a>                            |  |  |  |   |  |  | |  | | | 
