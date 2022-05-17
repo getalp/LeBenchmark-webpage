@@ -1,7 +1,7 @@
 ---
 layout: page
-title: models
+title: Models
 permalink: /Models/
 ---
 
-Models can be found on HuggingFace [here](https://huggingface.co/LeBenchmark)
+Models can be found on HuggingFace [here](https://huggingface.co/LeBenchmark) (https://huggingface.co/LeBenchmark)
